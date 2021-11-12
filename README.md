@@ -3,7 +3,7 @@
 ## Description
 
 This is my own library containing re-code basic functions of the C standart library. 
-It also containes utility functions needed in future projects.
+It also contains utility functions needed in future projects.
 
 Compilation was with flags: `gcc -Wall -Wextra -Werror`.
 
